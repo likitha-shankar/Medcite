@@ -38,6 +38,16 @@ jobs:
       - name: Pull LLM model
         run: ollama pull qwen3:latest
 
+      - name: Ingest sample document
+        run: |
+          python - <<'EOF'
+          from app.ingestion.pipeline import ingest
+          from app.embeddings.vector_store import add_chunks
+          chunks = ingest("data/raw/sample_clinical_guideline.txt")
+          add_chunks(chunks)
+          print(f"Ingested {len(chunks)} chunks into vector store.")
+          EOF
+
       - name: Run evaluation pipeline
         run: python -m app.evaluation.evaluate
         # Exit code 1 = thresholds not met → job fails → PR blocked
