@@ -34,6 +34,7 @@ from openai import OpenAI
 from app.retrieval.hybrid_retriever import hybrid_search
 from app.reranking.reranker import rerank
 from app.generation.prompts import SYSTEM_PROMPT, build_user_prompt
+from app.generation.citation_parser import parse_llm_output
 
 # Ollama exposes an OpenAI-compatible API on localhost:11434.
 # We use the OpenAI SDK pointed at Ollama — same interface, local model.
@@ -112,11 +113,15 @@ def generate_answer(
                           # High temperature = more creative = more hallucination risk.
     )
 
-    answer_text = response.choices[0].message.content
-    print(f"[Generator] Response received ({len(answer_text)} chars)")
+    raw_answer = response.choices[0].message.content
+    print(f"[Generator] Response received ({len(raw_answer)} chars)")
+
+    parsed = parse_llm_output(raw_answer, reranked)
 
     return {
-        "answer": answer_text,
+        "answer": raw_answer,
+        "answer_text": parsed["answer_text"],
+        "citations": parsed["citations"],
         "context_chunks": reranked,
         "query": query,
     }

@@ -11,6 +11,72 @@ from pathlib import Path
 
 import streamlit as st
 
+# Palette for cycling citation card accent colours (one colour per unique source file)
+_CITATION_COLOURS = [
+    "#1976D2", "#388E3C", "#7B1FA2", "#E64A19",
+    "#00838F", "#F57F17", "#5D4037", "#455A64",
+]
+
+
+def _colour_for_doc(doc_name: str, colour_map: dict) -> str:
+    if doc_name not in colour_map:
+        colour_map[doc_name] = _CITATION_COLOURS[len(colour_map) % len(_CITATION_COLOURS)]
+    return colour_map[doc_name]
+
+
+def render_answer_with_badges(answer_text: str) -> str:
+    """Replace [Source N] / [Source N, Source M] markers with styled superscript badges."""
+    def _badge(m):
+        nums = re.findall(r"\d+", m.group(0))
+        labels = ", ".join(f"[{n}]" for n in nums)
+        return (
+            f'<sup style="background:#1976D2;color:#fff;border-radius:3px;'
+            f'padding:1px 5px;font-size:0.72em;font-weight:700;'
+            f'margin-left:1px;">{labels}</sup>'
+        )
+    return re.sub(r"\[Source [^\]]+\]", _badge, answer_text)
+
+
+def _fallback_answer_text(raw: str) -> str:
+    """Strip think tags and SOURCES block from a raw answer string."""
+    cleaned = re.sub(r"<think>.*?</think>", "", raw, flags=re.DOTALL)
+    cleaned = re.sub(r"<think>.*", "", cleaned, flags=re.DOTALL).strip()
+    if "SOURCES:" in cleaned:
+        cleaned = cleaned.split("SOURCES:", 1)[0]
+    return cleaned.replace("ANSWER:", "").strip()
+
+
+def render_citation_card(citation: dict, colour: str) -> None:
+    num = citation["number"]
+    doc = citation.get("source_file", "Unknown document")
+    page = citation.get("page_number", "?")
+    section = citation.get("section_title", "")
+    excerpt = citation.get("excerpt", "")
+
+    section_tag = f"<span style='color:#555;'>· {section}</span>" if section else ""
+    excerpt_html = (
+        f"<blockquote style='border-left:3px solid {colour};margin:8px 0 0 0;"
+        f"padding:6px 10px;background:#fafafa;font-style:italic;"
+        f"color:#333;border-radius:0 4px 4px 0;font-size:0.9em;'>"
+        f""{excerpt}"</blockquote>"
+        if excerpt else ""
+    )
+
+    st.markdown(
+        f"""<div style='border-left:4px solid {colour};border-radius:4px;
+        padding:10px 14px;margin:6px 0;background:#f5f8ff;'>
+        <div>
+            <span style='background:{colour};color:#fff;border-radius:3px;
+            padding:1px 7px;font-weight:700;font-size:0.85em;'>[{num}]</span>
+            &nbsp;<strong style='font-size:0.95em;'>{doc}</strong>
+            &nbsp;<span style='color:#777;font-size:0.85em;'>Page {page}</span>
+            &nbsp;{section_tag}
+        </div>
+        {excerpt_html}
+        </div>""",
+        unsafe_allow_html=True,
+    )
+
 from app.generation.generator import generate_answer
 from app.ingestion.pipeline import ingest
 from app.embeddings.vector_store import add_chunks, get_collection, reset_collection
@@ -87,22 +153,22 @@ with tab_qa:
         st.divider()
         st.subheader(f"Q{idx}: {result['query']}")
 
-        answer = result["answer"]
-        answer_clean = re.sub(r"</?think>", "", answer).strip()
+        # Use pre-parsed fields when available (new format), fall back to raw parsing
+        answer_text = result.get("answer_text") or _fallback_answer_text(result.get("answer", ""))
+        citations = result.get("citations", [])
 
-        if "SOURCES:" in answer_clean:
-            answer_part, sources_part = answer_clean.split("SOURCES:", 1)
-            answer_part = answer_part.replace("ANSWER:", "").strip()
-        else:
-            answer_part = answer_clean.replace("ANSWER:", "").strip()
-            sources_part = None
+        # Render answer body with citation badges
+        st.markdown(render_answer_with_badges(answer_text), unsafe_allow_html=True)
 
-        st.markdown(answer_part)
+        # Citation cards — Abstractive Health style
+        if citations:
+            st.markdown("**Citations**")
+            colour_map: dict = {}
+            for citation in citations:
+                colour = _colour_for_doc(citation.get("source_file", ""), colour_map)
+                render_citation_card(citation, colour)
 
-        if sources_part:
-            with st.expander("Cited Sources"):
-                st.text(sources_part.strip())
-
+        # Full retrieved context in an expander (for debugging / power users)
         chunks = result.get("context_chunks", [])
         if chunks:
             with st.expander(f"Retrieved Context ({len(chunks)} chunks)"):
