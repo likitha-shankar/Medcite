@@ -35,6 +35,7 @@ from app.retrieval.hybrid_retriever import hybrid_search
 from app.reranking.reranker import rerank
 from app.generation.prompts import SYSTEM_PROMPT, build_user_prompt
 from app.generation.citation_parser import parse_llm_output
+from app.embeddings.vector_store import get_collection
 
 # Ollama exposes an OpenAI-compatible API on localhost:11434.
 # We use the OpenAI SDK pointed at Ollama — same interface, local model.
@@ -82,7 +83,10 @@ def generate_answer(
              → LLM → citation-grounded answer
     """
     if not query or not query.strip():
-        return {"answer": "Please enter a question.", "context_chunks": [], "query": query}
+        return {"answer": "Please enter a question.", "context_chunks": [], "citations": [], "query": query}
+
+    if get_collection().count() == 0:
+        return {"answer": "No documents loaded. Please upload a document first.", "context_chunks": [], "citations": [], "query": query}
 
     # Stage 1: Retrieve candidates (vector + BM25 + RRF)
     print(f"[Generator] Retrieving candidates for: {query}")
