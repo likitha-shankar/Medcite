@@ -19,9 +19,14 @@ ChromaDB gives us three things:
    uploads 50 guidelines and asks about one drug, we shouldn't search all 50.
 """
 
+import os
+import logging
 from pathlib import Path
 
 import chromadb
+
+os.environ.setdefault("ANONYMIZED_TELEMETRY", "False")
+logging.getLogger("chromadb.telemetry.product.posthog").setLevel(logging.CRITICAL)
 
 from app.ingestion.models import DocumentChunk
 from app.embeddings.embedder import embed_texts, embed_query
@@ -38,6 +43,24 @@ _client = None
 _collection = None
 
 
+def _make_client() -> chromadb.PersistentClient:
+    """Create a ChromaDB PersistentClient, resetting the internal registry
+    if a conflicting instance already exists (e.g. after Streamlit hot-reload
+    or when a test script and the UI share the same process space)."""
+    try:
+        return chromadb.PersistentClient(path=CHROMA_PERSIST_DIR)
+    except ValueError:
+        # ChromaDB keeps a class-level registry of clients by path.
+        # If settings changed (e.g. env vars set after the first client was
+        # created), it raises ValueError. Clear the registry and retry.
+        try:
+            from chromadb.api.client import SharedSystemClient
+            SharedSystemClient._identifier_to_system.clear()
+        except Exception:
+            pass
+        return chromadb.PersistentClient(path=CHROMA_PERSIST_DIR)
+
+
 def get_collection() -> chromadb.Collection:
     """Get or create the ChromaDB collection.
 
@@ -47,7 +70,7 @@ def get_collection() -> chromadb.Collection:
     """
     global _client, _collection
     if _collection is None:
-        _client = chromadb.PersistentClient(path=CHROMA_PERSIST_DIR)
+        _client = _make_client()
         _collection = _client.get_or_create_collection(
             name=COLLECTION_NAME,
             # cosine similarity is standard for sentence embeddings.
@@ -164,7 +187,7 @@ def reset_collection() -> None:
     chunking settings.
     """
     global _collection
-    client = chromadb.PersistentClient(path=CHROMA_PERSIST_DIR)
+    client = _make_client()
     try:
         client.delete_collection(COLLECTION_NAME)
     except Exception:
