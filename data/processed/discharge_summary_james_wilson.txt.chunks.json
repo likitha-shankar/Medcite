@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c0",
+    "text": "Institution: Riverside General Hospital\nDepartment: Internal Medicine / Cardiology\nDocument Type: Comprehensive Inpatient Discharge Summary\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "DISCHARGE SUMMARY",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c1",
+    "text": "============================================================\nPatient Name:        James Arthur Wilson\nDate of Birth:       14 March 1958\nAge:                 67 years\nSex:                 Male\nMRN:                 RGH-2024-087342\nInsurance ID:        BCBS-TX-449021\nPrimary Language:    English\nNext of Kin:         Margaret Wilson (spouse) \u2014 512-334-8821\nAdmitting Physician:     Dr. Priya Nair, MD (Internal Medicine)\nAttending Physician:     Dr. Priya Nair, MD\nConsulting Physicians:   Dr. Carlos Mendez, MD (Cardiology)\n                         Dr. Sunita Patel, MD (Nephrology)\n                         Dr. Brian Lee, PharmD (Clinical Pharmacy)\nAdmission Date:      09 February 2024 at 02:14\nDischarge Date:      17 February 2024 at 11:30\nLength of Stay:      8 days\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "PATIENT INFORMATION",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c2",
+    "text": "============================================================\nREASON FOR ADMISSION / PRESENTING COMPLAINT\n============================================================\nMr. James Wilson, a 67-year-old male with a known history of ischaemic cardiomyopathy,\nCKD Stage 3b, Type 2 Diabetes Mellitus, and hypertension, presented to the Emergency\nDepartment at 02:14 on 09 February 2024 via ambulance, accompanied by his wife.\nChief complaints on arrival:\n- Progressive worsening of dyspnoea over the preceding 5 days, now present at rest\n- Orthopnoea \u2014 unable to lie flat; sleeping upright in recliner for 3 nights\n- Paroxysmal nocturnal dyspnoea \u2014 2 episodes in the past week\n- Bilateral lower limb oedema, worsening over 10 days, now extending to the knees\n- Weight gain of 6.2 kg over the past 2 weeks (confirmed by home scale records)\n- Reduced urine output for the past 3 days\n- Fatigue and generalised weakness \u2014 unable to walk more than 10 metres without stopping\n- Mild chest heaviness, non-radiating, without diaphoresis \u2014 attributed to dyspnoea\n- No fever, cough, or recent upper respiratory tract infection\nMrs. Wilson reported that her husband had been non-compliant with his fluid restriction\n(2L/day) and had consumed significantly higher-than-usual sodium intake over the preceding\n2 weeks during a family gathering period. He had also self-discontinued furosemide\napproximately 10 days prior due to concerns about urinary urgency affecting his ability\nto attend social events.",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "8. Obstructive sleep apnoea \u2014 known, CPAP non-compliant",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c3",
+    "text": "He had also self-discontinued furosemide\napproximately 10 days prior due to concerns about urinary urgency affecting his ability\nto attend social events.\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "8. Obstructive sleep apnoea \u2014 known, CPAP non-compliant",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c4",
+    "text": "============================================================\n- Percutaneous Coronary Intervention (PCI), LAD \u2014 March 2016\n- Repeat PCI with DES, proximal LAD \u2014 June 2019\n- Right knee arthroscopy \u2014 2008\n- Appendicectomy \u2014 1987\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "PAST SURGICAL HISTORY",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c5",
+    "text": "============================================================\n- Father: deceased age 71, ischaemic heart disease, Type 2 Diabetes\n- Mother: deceased age 78, stroke, hypertension\n- Brother (age 64): Type 2 Diabetes, hypertension\n- Sister (age 61): no significant illness\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "FAMILY HISTORY",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c6",
+    "text": "============================================================\n- Occupation: Retired civil engineer\n- Smoking: Former smoker \u2014 35 pack-year history; quit 2012\n- Alcohol: Occasional \u2014 reports 2-3 standard drinks per week; denies binge drinking\n- Recreational drugs: None\n- Living situation: Lives with wife in a single-storey home; 2 adult children live nearby\n- Exercise: Sedentary since cardiac events; attends cardiac rehab sporadically\n- Diet: Wife reports significant dietary indiscretion \u2014 high sodium, high carbohydrate\n- Driving: Currently driving; advised to review with GP given cardiac status\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "SOCIAL HISTORY",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c7",
+    "text": "pre-medication protocol required for future contrast studies\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "3. Contrast dye (iodinated) \u2014 reported rash 2019 during cardiac catheterisation;",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c8",
+    "text": "============================================================\n(As reported by patient and confirmed against pharmacy dispensing records)",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "MEDICATIONS ON ADMISSION",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c9",
+    "text": "============================================================\nVital Signs:\n- Temperature:       37.4\u00b0C (tympanic)\n- Heart Rate:        102 bpm \u2014 irregularly irregular\n- Blood Pressure:    198/114 mmHg (right arm, sitting)\n                     194/110 mmHg (left arm, sitting)\n- Respiratory Rate:  26 breaths per minute\n- Oxygen Saturation: 88% on room air; 96% on 4L/min nasal cannula\n- Weight:            98.4 kg (dry weight estimated 92 kg)\n- Height:            175 cm\n- BMI:               32.1 kg/m2\nGeneral:\nPatient is visibly dyspnoeic at rest, sitting upright and leaning forward. Mildly\ndistressed, unable to speak in full sentences. Pale but not cyanosed peripherally.\nAlert and orientated to time, place, and person.\nCardiovascular:\n- JVP markedly elevated \u2014 estimated at 12 cm above sternal angle\n- Apex beat displaced to anterior axillary line, 6th intercostal space\n- Heart sounds: S1 and S2 present; S3 gallop audible at apex (consistent with volume overload)\n- Grade II/VI pansystolic murmur at apex, radiating to axilla \u2014 consistent with\n  functional mitral regurgitation\n- Peripheral pulses: present but weak bilaterally in lower limbs\nRespiratory:\n- Bilateral coarse crackles to mid-zones on auscultation\n- Dullness to percussion at right base, consistent with pleural effusion\n- Accessory muscle use present\n- No wheeze",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "PHYSICAL EXAMINATION ON ADMISSION",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c10",
+    "text": "in lower limbs\nRespiratory:\n- Bilateral coarse crackles to mid-zones on auscultation\n- Dullness to percussion at right base, consistent with pleural effusion\n- Accessory muscle use present\n- No wheeze\nAbdomen:\n- Mildly distended\n- Hepatomegaly \u2014 liver edge palpable 4 cm below right costal margin, tender\n- No splenomegaly\n- Shifting dullness \u2014 mild ascites not excluded\n- Bowel sounds present and normal\nExtremities:\n- Bilateral pitting oedema 3+ extending to knees\n- Skin warm and dry in upper limbs; cool and mottled in lower limbs\n- No clubbing; no palmar erythema\n- No active skin breakdown or ulceration noted\nNeurological:\n- Alert, orientated, GCS 15/15\n- No focal neurological deficits\n- Mild peripheral sensory loss in bilateral feet (stocking distribution) \u2014 consistent\n  with known diabetic peripheral neuropathy\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "PHYSICAL EXAMINATION ON ADMISSION",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c11",
+    "text": "============================================================\n--- ELECTROCARDIOGRAM (09 Feb 2024, 02:30) ---\nRate: 102 bpm\nRhythm: Atrial fibrillation with rapid ventricular response\nAxis: Left axis deviation\nPR interval: Not applicable (AF)\nQRS duration: 148 ms \u2014 Left Bundle Branch Block morphology (LBBB), pre-existing\nST/T changes: ST depression in V4-V6, likely rate-related and in context of LBBB\nQTc: 472 ms\nImpression: Atrial fibrillation with RVR. LBBB (pre-existing per prior ECGs). Rate-related\nST changes. No acute STEMI equivalent identifiable.\n--- CHEST X-RAY (09 Feb 2024, 02:45) ---\n- Cardiomegaly \u2014 cardiothoracic ratio 0.62\n- Bilateral perihilar haziness \u2014 consistent with pulmonary oedema\n- Kerley B lines present bilaterally\n- Right-sided pleural effusion \u2014 moderate\n- Left-sided pleural effusion \u2014 small\n- No pneumothorax; no consolidation to suggest pneumonia\n--- ECHOCARDIOGRAM (10 Feb 2024) ---\nPerformed by Dr. Carlos Mendez (Cardiology)\nLeft Ventricle:\n- Severely dilated LV (LVEDD 7.2 cm)\n- Global hypokinesis with anteroseptal akinesis (consistent with prior LAD territory infarct)\n- LVEF: 30% (Simpson's biplane method) \u2014 severely reduced (previously 28% in Aug 2023)\n- LV diastolic dysfunction: Grade III (restrictive filling pattern)\nRight Ventricle:\n- Mildly dilated RV\n- Mildly reduced RV systolic function \u2014 TAPSE 16 mm\n- Estimated RVSP 42 mmHg \u2014 mild pulmonary hypertension",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "INVESTIGATIONS",
+    "chunk_index": 11
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c12",
+    "text": "lic dysfunction: Grade III (restrictive filling pattern)\nRight Ventricle:\n- Mildly dilated RV\n- Mildly reduced RV systolic function \u2014 TAPSE 16 mm\n- Estimated RVSP 42 mmHg \u2014 mild pulmonary hypertension\nValves:\n- Mitral valve: Moderate functional mitral regurgitation (regurgitant volume 38 mL/beat)\n- Aortic valve: Trileaflet, mild aortic sclerosis, no significant stenosis or regurgitation\n- Tricuspid valve: Mild tricuspid regurgitation\n- Pulmonary valve: Normal\nOther:\n- IVC dilated at 2.4 cm, non-collapsible \u2014 consistent with elevated RAP\n- No pericardial effusion\n- No intracardiac thrombus identified\nImpression: Severely reduced LVEF at 30%. Dilated ischaemic cardiomyopathy. Moderate\nfunctional MR. Mild pulmonary hypertension. Features consistent with decompensated HFrEF.\n--- LABORATORY RESULTS (SUMMARY) ---",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "INVESTIGATIONS",
+    "chunk_index": 12
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c13",
+    "text": "Dilated ischaemic cardiomyopathy. Moderate\nfunctional MR. Mild pulmonary hypertension. Features consistent with decompensated HFrEF.",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "INVESTIGATIONS",
+    "chunk_index": 13
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c14",
+    "text": "--- LABORATORY RESULTS (SUMMARY) ---\n09 Feb 2024 (Admission):\n- Hb:              9.1 g/dL (low)\n- WBC:             8.4 x10^9/L (normal)\n- Platelets:       224 x10^9/L (normal)\n- MCV:             82 fL (normocytic)\n- Sodium:          133 mEq/L (mildly low)\n- Potassium:       6.1 mEq/L (HIGH \u2014 hyperkalemia)\n- Chloride:        98 mEq/L\n- Bicarbonate:     19 mEq/L (mildly low)\n- Urea:            18.2 mmol/L (HIGH)\n- Creatinine:      248 umol/L (HIGH \u2014 baseline ~140 umol/L)\n- eGFR:            22 mL/min/1.73m2 (severely reduced; AKI Stage 2 on CKD 3b)\n- Glucose (random): 18.4 mmol/L (HIGH)\n- HbA1c:           9.8% (poorly controlled diabetes)\n- Total Protein:   62 g/L (low-normal)\n- Albumin:         29 g/L (low \u2014 hypoalbuminaemia)\n- ALT:             52 U/L (mildly elevated \u2014 hepatic congestion)\n- AST:             48 U/L (mildly elevated)\n- ALP:             88 U/L (normal)\n- Total Bilirubin: 28 umol/L (mildly elevated)\n- BNP:             2840 pg/mL (markedly elevated \u2014 severe HF)\n- Troponin I:      0.08 ng/mL (mildly elevated \u2014 likely demand ischaemia, not primary ACS)\n- CRP:             18 mg/L (mildly elevated)\n- TSH:             2.1 mIU/L (normal)\n- INR:             1.4 (mildly elevated \u2014 hepatic congestion)\n- APTT:            34 seconds (normal)\n- Urine sodium:    12 mEq/L (low \u2014 prerenal component)\n- Urine creatinine: 6.8 mmol/L\n- Fractional excretion of sodium (FeNa): 0.4% (prerenal)\n- Urine albumin-creatinine ratio (UACR): 680 mg/g (severely elevated)",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "INVESTIGATIONS",
+    "chunk_index": 14
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c15",
+    "text": "um:    12 mEq/L (low \u2014 prerenal component)\n- Urine creatinine: 6.8 mmol/L\n- Fractional excretion of sodium (FeNa): 0.4% (prerenal)\n- Urine albumin-creatinine ratio (UACR): 680 mg/g (severely elevated)\n17 Feb 2024 (Discharge):\n- Hb:              9.4 g/dL\n- Sodium:          138 mEq/L\n- Potassium:       4.7 mEq/L\n- Creatinine:      168 umol/L\n- eGFR:            41 mL/min/1.73m2\n- Urea:            12.1 mmol/L\n- BNP:             840 pg/mL (improved but still elevated)\n- Glucose (fasting): 7.2 mmol/L\n- Albumin:         32 g/L\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "INVESTIGATIONS",
+    "chunk_index": 15
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c16",
+    "text": "============================================================\n--- DAY 1-2: STABILISATION PHASE ---\nMr. Wilson was admitted directly to the Coronary Care Unit (CCU) given haemodynamic\ninstability, oxygen desaturation, and hyperkalemia.\nImmediate management:\nHyperkalemia (K+ 6.1):\n- Calcium gluconate 10 mL of 10% solution IV administered for cardiac membrane\n  stabilisation \u2014 repeat ECG post-administration showed no peaked T-waves, confirming\n  no immediate lethal arrhythmia risk\n- Insulin-dextrose infusion (10 units actrapid in 50 mL 50% dextrose over 30 minutes)\n- Sodium zirconium cyclosilicate (Lokelma) 10g orally three times daily commenced for\n  ongoing potassium removal\n- Ramipril held given AKI and hyperkalemia\n- Eplerenone held given hyperkalemia\nAcute Decompensated Heart Failure:\n- Furosemide 80mg IV bolus administered on arrival, then 40mg IV twice daily\n- Fluid restriction: 1.5L per 24 hours\n- Sodium restriction: <2g per day \u2014 dietary consult ordered\n- Daily weights commenced (target: negative fluid balance of 1-1.5L per day)\n- Strict fluid balance charting\n- Supplemental oxygen: initially 4L/min nasal cannula, weaned to room air by Day 3",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 16
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c17",
+    "text": "ordered\n- Daily weights commenced (target: negative fluid balance of 1-1.5L per day)\n- Strict fluid balance charting\n- Supplemental oxygen: initially 4L/min nasal cannula, weaned to room air by Day 3\nAtrial Fibrillation with Rapid Ventricular Response:\n- Rate control strategy adopted given chronic AF (patient has known paroxysmal AF,\n  now appears to be persistent)\n- Carvedilol dose uptitrated cautiously \u2014 held initially given haemodynamic instability,\n  reintroduced Day 2 at 6.25mg BD\n- Digoxin 0.25mg IV loading dose given on Day 1, followed by 0.0625mg oral daily\n  (renally adjusted given AKI) \u2014 achieved rate control with HR 68-78 bpm by Day 3\n- Anticoagulation: LMWH (enoxaparin 40mg SC daily, renally adjusted) commenced\n  for AF; transitioned to apixaban 2.5mg BD at discharge (dose-reduced for age,\n  weight, and renal function \u2014 meets 2-of-3 criteria for dose reduction)\nHypertension:\n- IV labetalol avoided given decompensated HF\n- Hypertension managed conservatively with diuresis; BP responded to decongestion\n- Amlodipine 5mg orally once daily added Day 3 for residual hypertension\n  (cautious use given oedema; justified by BP 168/96 despite diuresis)",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 17
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c18",
+    "text": "nservatively with diuresis; BP responded to decongestion\n- Amlodipine 5mg orally once daily added Day 3 for residual hypertension\n  (cautious use given oedema; justified by BP 168/96 despite diuresis)\nBlood Glucose Management:\n- Metformin HELD on admission (AKI + contrast study planned)\n- Insulin glargine continued at 28 units; correction doses of insulin aspart adjusted\n- Endocrinology contacted \u2014 recommended increasing basal insulin to 32 units and\n  optimising meal-time insulin with carbohydrate counting education\n- Continuous glucose monitoring (CGM \u2014 FreeStyle Libre) reviewed by diabetes nurse\n  educator on Day 3\nAKI Management:\n- Nephrology consulted (Dr. Sunita Patel) \u2014 AKI attributed to cardiorenal syndrome\n  type 1 (acute decompensated HF causing AKI) with a prerenal component from\n  self-discontinuation of diuretics and reduced renal perfusion\n- Nephrotoxins avoided: NSAIDs, contrast (planned CT deferred), aminoglycosides\n- Ramipril held \u2014 to be restarted cautiously once creatinine stabilises post-discharge\n- Renally-adjusted dosing reviewed for all medications by clinical pharmacist (Dr. Brian Lee)\n- Digoxin level checked Day 3: 0.9 ng/mL (therapeutic range 0.5-0.9; acceptable)\n--- DAY 3-5: DIURESIS AND MONITORING PHASE ---",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 18
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c19",
+    "text": "Brian Lee)\n- Digoxin level checked Day 3: 0.9 ng/mL (therapeutic range 0.5-0.9; acceptable)\n--- DAY 3-5: DIURESIS AND MONITORING PHASE ---\nResponse to IV diuresis:\n- Day 1 urine output: 2,100 mL (net negative balance -800 mL)\n- Day 2 urine output: 2,680 mL (net negative balance -1,400 mL)\n- Day 3 urine output: 2,420 mL (net negative balance -1,200 mL)\n- Weight trend: 98.4 kg \u2192 97.1 \u2192 95.3 \u2192 93.8 kg\nRespiratory improvement noted by Day 3 \u2014 crackles reduced to lung bases only.\nSupplemental oxygen weaned and discontinued. Patient able to speak in full sentences\nand walk to bathroom without significant dyspnoea.\nPotassium normalised to 5.1 mEq/L by Day 3. Sodium zirconium cyclosilicate reduced\nto once daily maintenance dosing.\nCreatinine peaked at 264 umol/L (Day 2), then began to trend downward consistent\nwith improving cardiac output and renal perfusion.\nRepeat ECG Day 3: AF with controlled ventricular rate (72 bpm). LBBB unchanged.\nNo new ST changes. QTc 458 ms.",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 19
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c20",
+    "text": "Repeat ECG Day 3: AF with controlled ventricular rate (72 bpm). LBBB unchanged.\nNo new ST changes. QTc 458 ms.\nCardiology review (Dr. Mendez, Day 4):\n- LVEF of 30% represents modest improvement from 28% (Aug 2023) \u2014 possible\n  contribution of rate control reducing tachycardia-mediated cardiomyopathy\n- Cardiac resynchronisation therapy (CRT) discussed \u2014 patient meets criteria:\n  LBBB morphology, QRS >150 ms, LVEF <35%, NYHA Class III despite optimal\n  medical therapy\n- Decision: optimise medical therapy first for 3 months post-discharge and reassess\n  LVEF. If EF remains <35%, proceed with CRT-D implantation.\n- ICD discussion documented: patient counselled re: sudden cardiac death risk;\n  wearable cardioverter defibrillator (LifeVest) considered as bridge \u2014 patient\n  declined after counselling; decision documented and respected\n--- DAY 5-7: TRANSITION TO ORAL DIURESIS ---\nIV furosemide transitioned to oral furosemide 80mg twice daily (increased from\npre-admission dose of 40mg once daily).\nRamipril: not restarted (creatinine 184 umol/L on Day 5 \u2014 too elevated to safely\nrestart; plan to commence at low dose (1.25mg) as outpatient once creatinine\nreturns to near-baseline).\nEplerenone: restarted at 25mg once daily on Day 6 once potassium normalised\nto 4.9 mEq/L and creatinine trending down.\nMetformin: decision made NOT to restart at discharge given eGFR 41 mL/min/1.73m2\n(below threshold of 45 for safe recommencement); to be reviewed by GP/endocrinologist\nwhen eGFR recovers.",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 20
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c21",
+    "text": "Metformin: decision made NOT to restart at discharge given eGFR 41 mL/min/1.73m2\n(below threshold of 45 for safe recommencement); to be reviewed by GP/endocrinologist\nwhen eGFR recovers.\nBlood pressure well-controlled on carvedilol 12.5mg BD + amlodipine 5mg OD:\nreadings 128-138/76-84 mmHg.\nDietitian review completed Day 5:\n- Low-sodium diet education (<2g sodium per day)\n- Fluid restriction reinforced (1.5L per day)\n- Heart-healthy, low-glycaemic index dietary education\n- Written information provided in large print\nSocial work assessment Day 6:\n- No immediate social needs\n- Wife fully engaged as carer and medication supervisor\n- Home services not required at this stage\n- Referred to community heart failure nurse programme\n--- DAY 7-8: DISCHARGE PLANNING ---\nPatient clinically improved:\n- Euvolaemic \u2014 no peripheral oedema, clear lung fields\n- Dyspnoea resolved at rest; mild exertional dyspnoea on walking 100+ metres (NYHA II)\n- HR well-controlled (68-74 bpm in AF)\n- BP 132/78 mmHg\n- eGFR 41 mL/min/1.73m2 (improving)\n- Potassium 4.7 mEq/L\n- BNP improved (840 pg/mL from 2840 pg/mL)\n- Weight 92.6 kg (6 kg below admission weight \u2014 target dry weight confirmed 92 kg)",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 21
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c22",
+    "text": "- BP 132/78 mmHg\n- eGFR 41 mL/min/1.73m2 (improving)\n- Potassium 4.7 mEq/L\n- BNP improved (840 pg/mL from 2840 pg/mL)\n- Weight 92.6 kg (6 kg below admission weight \u2014 target dry weight confirmed 92 kg)\nDischarge education session conducted by nursing staff and pharmacist:\n- All medications reviewed with patient and wife \u2014 pill organiser arranged\n- Signs and symptoms of worsening HF requiring immediate presentation:\n  weight gain >2 kg in 2 days, increasing dyspnoea, orthopnoea, ankle swelling\n- Daily weighing instructions: same time each morning, after voiding, before eating\n- Action plan provided in writing \u2014 laminated card given to patient\n- Alcohol and fluid restriction reinforced\nCPAP compliance discussed: Sleep Medicine nurse contacted; appointment arranged\nwithin 4 weeks. Reinforced importance of CPAP for cardiac outcomes.\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "CLINICAL COURSE AND MANAGEMENT",
+    "chunk_index": 22
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c23",
+    "text": "MEDICATIONS HELD / CEASED:\n- Metformin 500mg \u2014 CEASED at discharge; eGFR 41 mL/min/1.73m2, below safe threshold.\n  To be reviewed by GP when eGFR >45 mL/min/1.73m2.\n- Ramipril 5mg \u2014 HELD; creatinine not at safe level to restart. To be restarted at\n  low dose (1.25mg) as outpatient under GP/cardiology supervision once creatinine\n  approaches baseline.\n============================================================\nFOLLOW-UP PLAN\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "15. Ferrous sulfate 325mg orally, twice daily \u2014 * REINFORCED (patient counselled on adherence)",
+    "chunk_index": 23
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c24",
+    "text": "- Within 5-7 days of discharge (by 22-24 February 2024)\n   - Review: BP, renal function, electrolytes, fluid balance, weight\n   - Consider restarting Ramipril 1.25mg if creatinine improved\n   - Consider restarting Metformin if eGFR >45 mL/min/1.73m2\n   - Repeat UEC and creatinine at this visit",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "1. GENERAL PRACTITIONER (Dr. Helen Marsh, Greenhill Family Practice):",
+    "chunk_index": 24
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c25",
+    "text": "- 6 weeks post-discharge (week of 25 March 2024)\n   - Repeat echocardiogram to reassess LVEF\n   - Discussion re: CRT-D candidacy if LVEF remains <35%\n   - Review of AF management and anticoagulation\n   - Uptitrate carvedilol if tolerated (target 25mg BD)",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "2. CARDIOLOGY (Dr. Carlos Mendez, Riverside Cardiac Clinic):",
+    "chunk_index": 25
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c26",
+    "text": "- 4 weeks post-discharge (week of 11 March 2024)\n   - Review AKI resolution and CKD trajectory\n   - Guidance on RAAS therapy reinstatement\n   - UACR follow-up (was 680 mg/g \u2014 markedly elevated)",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "3. NEPHROLOGY (Dr. Sunita Patel, Renal Outpatient Clinic):",
+    "chunk_index": 26
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c27",
+    "text": "- 4 weeks post-discharge\n   - Review insulin regimen and glycaemic control\n   - Consider SGLT2 inhibitor once eGFR allows and AKI resolved \u2014 has dual benefit\n     for HF and DKD (discuss at endocrine review)\n   - Ongoing CGM review",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "4. ENDOCRINOLOGY / DIABETES CLINIC:",
+    "chunk_index": 27
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c28",
+    "text": "- Phone call within 48 hours of discharge to confirm patient wellbeing\n   - Home visit within 1 week\n   - Weekly contact for first month",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "5. HEART FAILURE NURSE PROGRAMME (Community):",
+    "chunk_index": 28
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c29",
+    "text": "- Community dietitian referral sent; appointment within 3 weeks\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "7. DIETITIAN:",
+    "chunk_index": 29
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c30",
+    "text": "============================================================\n- Urine culture (sent Day 1 \u2014 growth of >10^5 CFU Escherichia coli reported Day 6;\n  sensitivities: sensitive to trimethoprim, nitrofurantoin, cephalexin; treated with\n  3-day course trimethoprim 300mg nocte \u2014 completed Day 8. GP to ensure follow-up urine\n  if symptoms persist.)\n- Thyroid antibodies (sent to rule out autoimmune thyroid disease given borderline TSH\n  trend over past 12 months; result pending \u2014 GP to follow up)\n- Right-sided pleural effusion: to be re-evaluated with chest X-ray at GP follow-up;\n  may require repeat imaging or thoracentesis if not resolved with diuresis\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "PENDING RESULTS AT DISCHARGE",
+    "chunk_index": 30
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c31",
+    "text": "============================================================\nThe following topics were discussed with Mr. Wilson and Mrs. Wilson during the\ninpatient stay, with written materials provided:",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "PATIENT EDUCATION AND COUNSELLING",
+    "chunk_index": 31
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c32",
+    "text": "Patient demonstrated understanding of key points. Wife will assist with medication\norganisation and daily weight recording.\n============================================================\nSAFETY NETTING / RED FLAG SYMPTOMS\n============================================================\nPatient and family instructed to present to Emergency Department or call 000 if:\n- Weight gain greater than 2 kg over 2 days\n- Worsening breathlessness at rest or lying flat\n- New or increasing ankle/leg swelling\n- Palpitations with dizziness, presyncope, or syncope\n- Chest pain or pressure\n- Reduced or absent urine output\n- Blood in urine, stool, or unusual bleeding (given new anticoagulation with apixaban)\n- Confusion or sudden deterioration in mental state\n- Blood glucose consistently above 15 mmol/L or below 4 mmol/L with symptoms\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "10. When to seek emergency help \u2014 emergency contact numbers provided",
+    "chunk_index": 32
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c33",
+    "text": "============================================================\nAttending Physician:\nDr. Priya Nair, MD FRACP\nStaff Specialist, Internal Medicine",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "TREATING TEAM SIGNATURES",
+    "chunk_index": 33
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c34",
+    "text": "============================================================\n- Patient (copy given on discharge)\n- Mrs. Margaret Wilson (carer copy)\n- Dr. Helen Marsh (GP) \u2014 faxed 17 February 2024\n- Dr. Carlos Mendez (Cardiology) \u2014 electronic\n- Dr. Sunita Patel (Nephrology) \u2014 electronic\n- Diabetes Clinic \u2014 electronic referral sent\n- Community Heart Failure Nurse Programme \u2014 electronic referral sent\n- Medical Records \u2014 filed\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "DISTRIBUTION",
+    "chunk_index": 34
+  },
+  {
+    "chunk_id": "discharge_summary_james_wilson.txt_p1_c35",
+    "text": "Document generated: 17 February 2024 at 10:45\nRiverside General Hospital | ABN 44 123 456 789\n============================================================",
+    "source_file": "discharge_summary_james_wilson.txt",
+    "page_number": 1,
+    "section_title": "END OF DISCHARGE SUMMARY",
+    "chunk_index": 35
+  }
+]

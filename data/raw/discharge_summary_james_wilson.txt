@@ -1,0 +1,634 @@
+DISCHARGE SUMMARY
+
+Institution: Riverside General Hospital
+Department: Internal Medicine / Cardiology
+Document Type: Comprehensive Inpatient Discharge Summary
+
+============================================================
+PATIENT INFORMATION
+============================================================
+
+Patient Name:        James Arthur Wilson
+Date of Birth:       14 March 1958
+Age:                 67 years
+Sex:                 Male
+MRN:                 RGH-2024-087342
+Insurance ID:        BCBS-TX-449021
+Primary Language:    English
+Next of Kin:         Margaret Wilson (spouse) — 512-334-8821
+
+Admitting Physician:     Dr. Priya Nair, MD (Internal Medicine)
+Attending Physician:     Dr. Priya Nair, MD
+Consulting Physicians:   Dr. Carlos Mendez, MD (Cardiology)
+                         Dr. Sunita Patel, MD (Nephrology)
+                         Dr. Brian Lee, PharmD (Clinical Pharmacy)
+
+Admission Date:      09 February 2024 at 02:14
+Discharge Date:      17 February 2024 at 11:30
+Length of Stay:      8 days
+
+============================================================
+ADMISSION DIAGNOSIS
+============================================================
+
+1. Acute decompensated heart failure (ADHF) — HFrEF, EF 30%
+2. Hypertensive urgency (BP 198/114 mmHg on presentation)
+3. Acute kidney injury (AKI) — Stage 2, on background CKD Stage 3b
+4. Type 2 Diabetes Mellitus — poorly controlled (HbA1c 9.8%)
+5. Hyperkalemia (serum potassium 6.1 mEq/L on admission)
+
+============================================================
+DISCHARGE DIAGNOSIS
+============================================================
+
+Primary:
+1. Acute decompensated heart failure — NYHA Class III, improved to Class II at discharge
+2. HFrEF with EF 30% (confirmed on echocardiogram 10 Feb 2024)
+
+Secondary:
+3. Hypertensive urgency — resolved
+4. AKI Stage 2, resolving — eGFR improved from 22 to 41 mL/min/1.73m2 at discharge
+5. Type 2 Diabetes Mellitus — insulin regimen optimised
+6. Hyperkalemia — resolved (K+ 4.7 mEq/L at discharge)
+7. Anaemia of chronic disease — Hb 9.4 g/dL at discharge, stable
+8. Obstructive sleep apnoea — known, CPAP non-compliant
+
+============================================================
+REASON FOR ADMISSION / PRESENTING COMPLAINT
+============================================================
+
+Mr. James Wilson, a 67-year-old male with a known history of ischaemic cardiomyopathy,
+CKD Stage 3b, Type 2 Diabetes Mellitus, and hypertension, presented to the Emergency
+Department at 02:14 on 09 February 2024 via ambulance, accompanied by his wife.
+
+Chief complaints on arrival:
+- Progressive worsening of dyspnoea over the preceding 5 days, now present at rest
+- Orthopnoea — unable to lie flat; sleeping upright in recliner for 3 nights
+- Paroxysmal nocturnal dyspnoea — 2 episodes in the past week
+- Bilateral lower limb oedema, worsening over 10 days, now extending to the knees
+- Weight gain of 6.2 kg over the past 2 weeks (confirmed by home scale records)
+- Reduced urine output for the past 3 days
+- Fatigue and generalised weakness — unable to walk more than 10 metres without stopping
+- Mild chest heaviness, non-radiating, without diaphoresis — attributed to dyspnoea
+- No fever, cough, or recent upper respiratory tract infection
+
+Mrs. Wilson reported that her husband had been non-compliant with his fluid restriction
+(2L/day) and had consumed significantly higher-than-usual sodium intake over the preceding
+2 weeks during a family gathering period. He had also self-discontinued furosemide
+approximately 10 days prior due to concerns about urinary urgency affecting his ability
+to attend social events.
+
+============================================================
+PAST MEDICAL HISTORY
+============================================================
+
+1. Ischaemic Cardiomyopathy — diagnosed 2016 following anterior STEMI; managed with
+   PCI to LAD (bare-metal stent 2016, drug-eluting stent 2019)
+2. HFrEF — EF last documented at 28% (echocardiogram, August 2023)
+3. Hypertension — diagnosed 2004, poorly controlled over past 18 months
+4. Type 2 Diabetes Mellitus — diagnosed 2009; on insulin and oral agents
+5. Chronic Kidney Disease Stage 3b — eGFR baseline 38-44 mL/min/1.73m2; nephrology
+   follow-up every 6 months
+6. Hyperlipidaemia — on statin therapy
+7. Obstructive Sleep Apnoea — diagnosed 2019, prescribed CPAP, reports poor compliance
+8. Peripheral Arterial Disease — claudication, ABI 0.72 right, 0.68 left (2022)
+9. Gout — 2 flares in past 3 years; on allopurinol
+10. Benign Prostatic Hyperplasia — on tamsulosin
+
+============================================================
+PAST SURGICAL HISTORY
+============================================================
+
+- Percutaneous Coronary Intervention (PCI), LAD — March 2016
+- Repeat PCI with DES, proximal LAD — June 2019
+- Right knee arthroscopy — 2008
+- Appendicectomy — 1987
+
+============================================================
+FAMILY HISTORY
+============================================================
+
+- Father: deceased age 71, ischaemic heart disease, Type 2 Diabetes
+- Mother: deceased age 78, stroke, hypertension
+- Brother (age 64): Type 2 Diabetes, hypertension
+- Sister (age 61): no significant illness
+
+============================================================
+SOCIAL HISTORY
+============================================================
+
+- Occupation: Retired civil engineer
+- Smoking: Former smoker — 35 pack-year history; quit 2012
+- Alcohol: Occasional — reports 2-3 standard drinks per week; denies binge drinking
+- Recreational drugs: None
+- Living situation: Lives with wife in a single-storey home; 2 adult children live nearby
+- Exercise: Sedentary since cardiac events; attends cardiac rehab sporadically
+- Diet: Wife reports significant dietary indiscretion — high sodium, high carbohydrate
+- Driving: Currently driving; advised to review with GP given cardiac status
+
+============================================================
+ALLERGIES AND ADVERSE REACTIONS
+============================================================
+
+1. Penicillin — anaphylaxis (documented 1998); avoid all penicillin-class antibiotics
+2. Aspirin (high-dose) — GI intolerance; tolerates low-dose aspirin (100mg) without issues
+3. Contrast dye (iodinated) — reported rash 2019 during cardiac catheterisation;
+   pre-medication protocol required for future contrast studies
+
+============================================================
+MEDICATIONS ON ADMISSION
+============================================================
+
+(As reported by patient and confirmed against pharmacy dispensing records)
+
+1.  Aspirin 100mg orally, once daily
+2.  Carvedilol 12.5mg orally, twice daily
+3.  Ramipril 5mg orally, once daily
+4.  Eplerenone 25mg orally, once daily
+5.  Atorvastatin 40mg orally, at night
+6.  Furosemide 40mg orally, once daily — SELF-DISCONTINUED 10 days prior to admission
+7.  Insulin glargine (Lantus) 28 units subcutaneously, at bedtime
+8.  Insulin aspart (NovoRapid) 6-10 units subcutaneously, with meals (sliding scale)
+8.  Metformin 500mg orally, twice daily
+9.  Allopurinol 200mg orally, once daily
+10. Tamsulosin 400mcg orally, at night
+11. Pantoprazole 40mg orally, once daily
+12. Ferrous sulfate 325mg orally, twice daily (prescribed, reportedly not taken regularly)
+
+============================================================
+PHYSICAL EXAMINATION ON ADMISSION
+============================================================
+
+Vital Signs:
+- Temperature:       37.4°C (tympanic)
+- Heart Rate:        102 bpm — irregularly irregular
+- Blood Pressure:    198/114 mmHg (right arm, sitting)
+                     194/110 mmHg (left arm, sitting)
+- Respiratory Rate:  26 breaths per minute
+- Oxygen Saturation: 88% on room air; 96% on 4L/min nasal cannula
+- Weight:            98.4 kg (dry weight estimated 92 kg)
+- Height:            175 cm
+- BMI:               32.1 kg/m2
+
+General:
+Patient is visibly dyspnoeic at rest, sitting upright and leaning forward. Mildly
+distressed, unable to speak in full sentences. Pale but not cyanosed peripherally.
+Alert and orientated to time, place, and person.
+
+Cardiovascular:
+- JVP markedly elevated — estimated at 12 cm above sternal angle
+- Apex beat displaced to anterior axillary line, 6th intercostal space
+- Heart sounds: S1 and S2 present; S3 gallop audible at apex (consistent with volume overload)
+- Grade II/VI pansystolic murmur at apex, radiating to axilla — consistent with
+  functional mitral regurgitation
+- Peripheral pulses: present but weak bilaterally in lower limbs
+
+Respiratory:
+- Bilateral coarse crackles to mid-zones on auscultation
+- Dullness to percussion at right base, consistent with pleural effusion
+- Accessory muscle use present
+- No wheeze
+
+Abdomen:
+- Mildly distended
+- Hepatomegaly — liver edge palpable 4 cm below right costal margin, tender
+- No splenomegaly
+- Shifting dullness — mild ascites not excluded
+- Bowel sounds present and normal
+
+Extremities:
+- Bilateral pitting oedema 3+ extending to knees
+- Skin warm and dry in upper limbs; cool and mottled in lower limbs
+- No clubbing; no palmar erythema
+- No active skin breakdown or ulceration noted
+
+Neurological:
+- Alert, orientated, GCS 15/15
+- No focal neurological deficits
+- Mild peripheral sensory loss in bilateral feet (stocking distribution) — consistent
+  with known diabetic peripheral neuropathy
+
+============================================================
+INVESTIGATIONS
+============================================================
+
+--- ELECTROCARDIOGRAM (09 Feb 2024, 02:30) ---
+
+Rate: 102 bpm
+Rhythm: Atrial fibrillation with rapid ventricular response
+Axis: Left axis deviation
+PR interval: Not applicable (AF)
+QRS duration: 148 ms — Left Bundle Branch Block morphology (LBBB), pre-existing
+ST/T changes: ST depression in V4-V6, likely rate-related and in context of LBBB
+QTc: 472 ms
+
+Impression: Atrial fibrillation with RVR. LBBB (pre-existing per prior ECGs). Rate-related
+ST changes. No acute STEMI equivalent identifiable.
+
+--- CHEST X-RAY (09 Feb 2024, 02:45) ---
+
+- Cardiomegaly — cardiothoracic ratio 0.62
+- Bilateral perihilar haziness — consistent with pulmonary oedema
+- Kerley B lines present bilaterally
+- Right-sided pleural effusion — moderate
+- Left-sided pleural effusion — small
+- No pneumothorax; no consolidation to suggest pneumonia
+
+--- ECHOCARDIOGRAM (10 Feb 2024) ---
+
+Performed by Dr. Carlos Mendez (Cardiology)
+
+Left Ventricle:
+- Severely dilated LV (LVEDD 7.2 cm)
+- Global hypokinesis with anteroseptal akinesis (consistent with prior LAD territory infarct)
+- LVEF: 30% (Simpson's biplane method) — severely reduced (previously 28% in Aug 2023)
+- LV diastolic dysfunction: Grade III (restrictive filling pattern)
+
+Right Ventricle:
+- Mildly dilated RV
+- Mildly reduced RV systolic function — TAPSE 16 mm
+- Estimated RVSP 42 mmHg — mild pulmonary hypertension
+
+Valves:
+- Mitral valve: Moderate functional mitral regurgitation (regurgitant volume 38 mL/beat)
+- Aortic valve: Trileaflet, mild aortic sclerosis, no significant stenosis or regurgitation
+- Tricuspid valve: Mild tricuspid regurgitation
+- Pulmonary valve: Normal
+
+Other:
+- IVC dilated at 2.4 cm, non-collapsible — consistent with elevated RAP
+- No pericardial effusion
+- No intracardiac thrombus identified
+
+Impression: Severely reduced LVEF at 30%. Dilated ischaemic cardiomyopathy. Moderate
+functional MR. Mild pulmonary hypertension. Features consistent with decompensated HFrEF.
+
+--- LABORATORY RESULTS (SUMMARY) ---
+
+09 Feb 2024 (Admission):
+- Hb:              9.1 g/dL (low)
+- WBC:             8.4 x10^9/L (normal)
+- Platelets:       224 x10^9/L (normal)
+- MCV:             82 fL (normocytic)
+- Sodium:          133 mEq/L (mildly low)
+- Potassium:       6.1 mEq/L (HIGH — hyperkalemia)
+- Chloride:        98 mEq/L
+- Bicarbonate:     19 mEq/L (mildly low)
+- Urea:            18.2 mmol/L (HIGH)
+- Creatinine:      248 umol/L (HIGH — baseline ~140 umol/L)
+- eGFR:            22 mL/min/1.73m2 (severely reduced; AKI Stage 2 on CKD 3b)
+- Glucose (random): 18.4 mmol/L (HIGH)
+- HbA1c:           9.8% (poorly controlled diabetes)
+- Total Protein:   62 g/L (low-normal)
+- Albumin:         29 g/L (low — hypoalbuminaemia)
+- ALT:             52 U/L (mildly elevated — hepatic congestion)
+- AST:             48 U/L (mildly elevated)
+- ALP:             88 U/L (normal)
+- Total Bilirubin: 28 umol/L (mildly elevated)
+- BNP:             2840 pg/mL (markedly elevated — severe HF)
+- Troponin I:      0.08 ng/mL (mildly elevated — likely demand ischaemia, not primary ACS)
+- CRP:             18 mg/L (mildly elevated)
+- TSH:             2.1 mIU/L (normal)
+- INR:             1.4 (mildly elevated — hepatic congestion)
+- APTT:            34 seconds (normal)
+- Urine sodium:    12 mEq/L (low — prerenal component)
+- Urine creatinine: 6.8 mmol/L
+- Fractional excretion of sodium (FeNa): 0.4% (prerenal)
+- Urine albumin-creatinine ratio (UACR): 680 mg/g (severely elevated)
+
+17 Feb 2024 (Discharge):
+- Hb:              9.4 g/dL
+- Sodium:          138 mEq/L
+- Potassium:       4.7 mEq/L
+- Creatinine:      168 umol/L
+- eGFR:            41 mL/min/1.73m2
+- Urea:            12.1 mmol/L
+- BNP:             840 pg/mL (improved but still elevated)
+- Glucose (fasting): 7.2 mmol/L
+- Albumin:         32 g/L
+
+============================================================
+CLINICAL COURSE AND MANAGEMENT
+============================================================
+
+--- DAY 1-2: STABILISATION PHASE ---
+
+Mr. Wilson was admitted directly to the Coronary Care Unit (CCU) given haemodynamic
+instability, oxygen desaturation, and hyperkalemia.
+
+Immediate management:
+
+Hyperkalemia (K+ 6.1):
+- Calcium gluconate 10 mL of 10% solution IV administered for cardiac membrane
+  stabilisation — repeat ECG post-administration showed no peaked T-waves, confirming
+  no immediate lethal arrhythmia risk
+- Insulin-dextrose infusion (10 units actrapid in 50 mL 50% dextrose over 30 minutes)
+- Sodium zirconium cyclosilicate (Lokelma) 10g orally three times daily commenced for
+  ongoing potassium removal
+- Ramipril held given AKI and hyperkalemia
+- Eplerenone held given hyperkalemia
+
+Acute Decompensated Heart Failure:
+- Furosemide 80mg IV bolus administered on arrival, then 40mg IV twice daily
+- Fluid restriction: 1.5L per 24 hours
+- Sodium restriction: <2g per day — dietary consult ordered
+- Daily weights commenced (target: negative fluid balance of 1-1.5L per day)
+- Strict fluid balance charting
+- Supplemental oxygen: initially 4L/min nasal cannula, weaned to room air by Day 3
+
+Atrial Fibrillation with Rapid Ventricular Response:
+- Rate control strategy adopted given chronic AF (patient has known paroxysmal AF,
+  now appears to be persistent)
+- Carvedilol dose uptitrated cautiously — held initially given haemodynamic instability,
+  reintroduced Day 2 at 6.25mg BD
+- Digoxin 0.25mg IV loading dose given on Day 1, followed by 0.0625mg oral daily
+  (renally adjusted given AKI) — achieved rate control with HR 68-78 bpm by Day 3
+- Anticoagulation: LMWH (enoxaparin 40mg SC daily, renally adjusted) commenced
+  for AF; transitioned to apixaban 2.5mg BD at discharge (dose-reduced for age,
+  weight, and renal function — meets 2-of-3 criteria for dose reduction)
+
+Hypertension:
+- IV labetalol avoided given decompensated HF
+- Hypertension managed conservatively with diuresis; BP responded to decongestion
+- Amlodipine 5mg orally once daily added Day 3 for residual hypertension
+  (cautious use given oedema; justified by BP 168/96 despite diuresis)
+
+Blood Glucose Management:
+- Metformin HELD on admission (AKI + contrast study planned)
+- Insulin glargine continued at 28 units; correction doses of insulin aspart adjusted
+- Endocrinology contacted — recommended increasing basal insulin to 32 units and
+  optimising meal-time insulin with carbohydrate counting education
+- Continuous glucose monitoring (CGM — FreeStyle Libre) reviewed by diabetes nurse
+  educator on Day 3
+
+AKI Management:
+- Nephrology consulted (Dr. Sunita Patel) — AKI attributed to cardiorenal syndrome
+  type 1 (acute decompensated HF causing AKI) with a prerenal component from
+  self-discontinuation of diuretics and reduced renal perfusion
+- Nephrotoxins avoided: NSAIDs, contrast (planned CT deferred), aminoglycosides
+- Ramipril held — to be restarted cautiously once creatinine stabilises post-discharge
+- Renally-adjusted dosing reviewed for all medications by clinical pharmacist (Dr. Brian Lee)
+- Digoxin level checked Day 3: 0.9 ng/mL (therapeutic range 0.5-0.9; acceptable)
+
+--- DAY 3-5: DIURESIS AND MONITORING PHASE ---
+
+Response to IV diuresis:
+- Day 1 urine output: 2,100 mL (net negative balance -800 mL)
+- Day 2 urine output: 2,680 mL (net negative balance -1,400 mL)
+- Day 3 urine output: 2,420 mL (net negative balance -1,200 mL)
+- Weight trend: 98.4 kg → 97.1 → 95.3 → 93.8 kg
+
+Respiratory improvement noted by Day 3 — crackles reduced to lung bases only.
+Supplemental oxygen weaned and discontinued. Patient able to speak in full sentences
+and walk to bathroom without significant dyspnoea.
+
+Potassium normalised to 5.1 mEq/L by Day 3. Sodium zirconium cyclosilicate reduced
+to once daily maintenance dosing.
+
+Creatinine peaked at 264 umol/L (Day 2), then began to trend downward consistent
+with improving cardiac output and renal perfusion.
+
+Repeat ECG Day 3: AF with controlled ventricular rate (72 bpm). LBBB unchanged.
+No new ST changes. QTc 458 ms.
+
+Cardiology review (Dr. Mendez, Day 4):
+- LVEF of 30% represents modest improvement from 28% (Aug 2023) — possible
+  contribution of rate control reducing tachycardia-mediated cardiomyopathy
+- Cardiac resynchronisation therapy (CRT) discussed — patient meets criteria:
+  LBBB morphology, QRS >150 ms, LVEF <35%, NYHA Class III despite optimal
+  medical therapy
+- Decision: optimise medical therapy first for 3 months post-discharge and reassess
+  LVEF. If EF remains <35%, proceed with CRT-D implantation.
+- ICD discussion documented: patient counselled re: sudden cardiac death risk;
+  wearable cardioverter defibrillator (LifeVest) considered as bridge — patient
+  declined after counselling; decision documented and respected
+
+--- DAY 5-7: TRANSITION TO ORAL DIURESIS ---
+
+IV furosemide transitioned to oral furosemide 80mg twice daily (increased from
+pre-admission dose of 40mg once daily).
+
+Ramipril: not restarted (creatinine 184 umol/L on Day 5 — too elevated to safely
+restart; plan to commence at low dose (1.25mg) as outpatient once creatinine
+returns to near-baseline).
+
+Eplerenone: restarted at 25mg once daily on Day 6 once potassium normalised
+to 4.9 mEq/L and creatinine trending down.
+
+Metformin: decision made NOT to restart at discharge given eGFR 41 mL/min/1.73m2
+(below threshold of 45 for safe recommencement); to be reviewed by GP/endocrinologist
+when eGFR recovers.
+
+Blood pressure well-controlled on carvedilol 12.5mg BD + amlodipine 5mg OD:
+readings 128-138/76-84 mmHg.
+
+Dietitian review completed Day 5:
+- Low-sodium diet education (<2g sodium per day)
+- Fluid restriction reinforced (1.5L per day)
+- Heart-healthy, low-glycaemic index dietary education
+- Written information provided in large print
+
+Social work assessment Day 6:
+- No immediate social needs
+- Wife fully engaged as carer and medication supervisor
+- Home services not required at this stage
+- Referred to community heart failure nurse programme
+
+--- DAY 7-8: DISCHARGE PLANNING ---
+
+Patient clinically improved:
+- Euvolaemic — no peripheral oedema, clear lung fields
+- Dyspnoea resolved at rest; mild exertional dyspnoea on walking 100+ metres (NYHA II)
+- HR well-controlled (68-74 bpm in AF)
+- BP 132/78 mmHg
+- eGFR 41 mL/min/1.73m2 (improving)
+- Potassium 4.7 mEq/L
+- BNP improved (840 pg/mL from 2840 pg/mL)
+- Weight 92.6 kg (6 kg below admission weight — target dry weight confirmed 92 kg)
+
+Discharge education session conducted by nursing staff and pharmacist:
+- All medications reviewed with patient and wife — pill organiser arranged
+- Signs and symptoms of worsening HF requiring immediate presentation:
+  weight gain >2 kg in 2 days, increasing dyspnoea, orthopnoea, ankle swelling
+- Daily weighing instructions: same time each morning, after voiding, before eating
+- Action plan provided in writing — laminated card given to patient
+- Alcohol and fluid restriction reinforced
+
+CPAP compliance discussed: Sleep Medicine nurse contacted; appointment arranged
+within 4 weeks. Reinforced importance of CPAP for cardiac outcomes.
+
+============================================================
+MEDICATIONS AT DISCHARGE
+============================================================
+
+CHANGED / NEW medications starred (*)
+
+1.  Aspirin 100mg orally, once daily — UNCHANGED
+2.  Carvedilol 12.5mg orally, twice daily — UNCHANGED
+3.  Eplerenone 25mg orally, once daily — UNCHANGED (was held on admission, restarted)
+4.  Atorvastatin 40mg orally, at night — UNCHANGED
+5.  Furosemide 80mg orally, TWICE daily — * INCREASED from 40mg once daily
+6.  Digoxin 0.0625mg orally, once daily — * NEW (rate control for AF)
+7.  Apixaban 2.5mg orally, twice daily — * NEW (anticoagulation for AF; stroke prevention)
+8.  Amlodipine 5mg orally, once daily — * NEW (additional BP control)
+9.  Insulin glargine (Lantus) 32 units subcutaneously, at bedtime — * INCREASED from 28 units
+10. Insulin aspart (NovoRapid) 6-10 units subcutaneously, with meals — UNCHANGED
+11. Sodium zirconium cyclosilicate (Lokelma) 5g orally, once daily — * NEW (K+ management)
+12. Allopurinol 200mg orally, once daily — UNCHANGED
+13. Tamsulosin 400mcg orally, at night — UNCHANGED
+14. Pantoprazole 40mg orally, once daily — UNCHANGED
+15. Ferrous sulfate 325mg orally, twice daily — * REINFORCED (patient counselled on adherence)
+
+MEDICATIONS HELD / CEASED:
+- Metformin 500mg — CEASED at discharge; eGFR 41 mL/min/1.73m2, below safe threshold.
+  To be reviewed by GP when eGFR >45 mL/min/1.73m2.
+- Ramipril 5mg — HELD; creatinine not at safe level to restart. To be restarted at
+  low dose (1.25mg) as outpatient under GP/cardiology supervision once creatinine
+  approaches baseline.
+
+============================================================
+FOLLOW-UP PLAN
+============================================================
+
+1. GENERAL PRACTITIONER (Dr. Helen Marsh, Greenhill Family Practice):
+   - Within 5-7 days of discharge (by 22-24 February 2024)
+   - Review: BP, renal function, electrolytes, fluid balance, weight
+   - Consider restarting Ramipril 1.25mg if creatinine improved
+   - Consider restarting Metformin if eGFR >45 mL/min/1.73m2
+   - Repeat UEC and creatinine at this visit
+
+2. CARDIOLOGY (Dr. Carlos Mendez, Riverside Cardiac Clinic):
+   - 6 weeks post-discharge (week of 25 March 2024)
+   - Repeat echocardiogram to reassess LVEF
+   - Discussion re: CRT-D candidacy if LVEF remains <35%
+   - Review of AF management and anticoagulation
+   - Uptitrate carvedilol if tolerated (target 25mg BD)
+
+3. NEPHROLOGY (Dr. Sunita Patel, Renal Outpatient Clinic):
+   - 4 weeks post-discharge (week of 11 March 2024)
+   - Review AKI resolution and CKD trajectory
+   - Guidance on RAAS therapy reinstatement
+   - UACR follow-up (was 680 mg/g — markedly elevated)
+
+4. ENDOCRINOLOGY / DIABETES CLINIC:
+   - 4 weeks post-discharge
+   - Review insulin regimen and glycaemic control
+   - Consider SGLT2 inhibitor once eGFR allows and AKI resolved — has dual benefit
+     for HF and DKD (discuss at endocrine review)
+   - Ongoing CGM review
+
+5. HEART FAILURE NURSE PROGRAMME (Community):
+   - Phone call within 48 hours of discharge to confirm patient wellbeing
+   - Home visit within 1 week
+   - Weekly contact for first month
+
+6. SLEEP MEDICINE:
+   - 4 weeks (CPAP compliance review and resetting)
+
+7. DIETITIAN:
+   - Community dietitian referral sent; appointment within 3 weeks
+
+============================================================
+PENDING RESULTS AT DISCHARGE
+============================================================
+
+- Urine culture (sent Day 1 — growth of >10^5 CFU Escherichia coli reported Day 6;
+  sensitivities: sensitive to trimethoprim, nitrofurantoin, cephalexin; treated with
+  3-day course trimethoprim 300mg nocte — completed Day 8. GP to ensure follow-up urine
+  if symptoms persist.)
+
+- Thyroid antibodies (sent to rule out autoimmune thyroid disease given borderline TSH
+  trend over past 12 months; result pending — GP to follow up)
+
+- Right-sided pleural effusion: to be re-evaluated with chest X-ray at GP follow-up;
+  may require repeat imaging or thoracentesis if not resolved with diuresis
+
+============================================================
+PATIENT EDUCATION AND COUNSELLING
+============================================================
+
+The following topics were discussed with Mr. Wilson and Mrs. Wilson during the
+inpatient stay, with written materials provided:
+
+1. Heart failure — what it is, what causes decompensation, how to manage at home
+2. Daily weight monitoring — action thresholds, when to call the doctor, when to
+   present to the Emergency Department
+3. Sodium and fluid restriction — practical tips, reading food labels, eating out
+4. Medication adherence — why each medication matters; dangers of self-discontinuation
+   of diuretics without medical advice
+5. Atrial fibrillation — what it means, why anticoagulation is important, stroke risk
+6. New anticoagulant (apixaban) — dose, timing, what to do if a dose is missed,
+   bleeding precautions, interaction with alcohol
+7. Diabetes management — insulin injection technique reviewed; blood glucose targets;
+   sick-day rules (especially insulin during illness)
+8. Renal health — avoiding NSAIDs, staying hydrated (within fluid restriction),
+   avoiding nephrotoxic OTC medications (e.g., ibuprofen, naproxen)
+9. Sleep apnoea and CPAP — importance of compliance for heart health
+10. When to seek emergency help — emergency contact numbers provided
+
+Patient demonstrated understanding of key points. Wife will assist with medication
+organisation and daily weight recording.
+
+============================================================
+SAFETY NETTING / RED FLAG SYMPTOMS
+============================================================
+
+Patient and family instructed to present to Emergency Department or call 000 if:
+
+- Weight gain greater than 2 kg over 2 days
+- Worsening breathlessness at rest or lying flat
+- New or increasing ankle/leg swelling
+- Palpitations with dizziness, presyncope, or syncope
+- Chest pain or pressure
+- Reduced or absent urine output
+- Blood in urine, stool, or unusual bleeding (given new anticoagulation with apixaban)
+- Confusion or sudden deterioration in mental state
+- Blood glucose consistently above 15 mmol/L or below 4 mmol/L with symptoms
+
+============================================================
+TREATING TEAM SIGNATURES
+============================================================
+
+Attending Physician:
+Dr. Priya Nair, MD FRACP
+Staff Specialist, Internal Medicine
+Riverside General Hospital
+Signed: 17 February 2024
+Pager: 3142
+
+Cardiology Consultant:
+Dr. Carlos Mendez, MD FRACP
+Staff Cardiologist
+Riverside General Hospital
+Signed: 16 February 2024
+
+Nephrology Consultant:
+Dr. Sunita Patel, MD FRACP
+Staff Nephrologist
+Riverside General Hospital
+Signed: 15 February 2024
+
+Clinical Pharmacist:
+Dr. Brian Lee, PharmD
+Senior Clinical Pharmacist
+Riverside General Hospital
+Signed: 17 February 2024
+
+============================================================
+DISTRIBUTION
+============================================================
+
+- Patient (copy given on discharge)
+- Mrs. Margaret Wilson (carer copy)
+- Dr. Helen Marsh (GP) — faxed 17 February 2024
+- Dr. Carlos Mendez (Cardiology) — electronic
+- Dr. Sunita Patel (Nephrology) — electronic
+- Diabetes Clinic — electronic referral sent
+- Community Heart Failure Nurse Programme — electronic referral sent
+- Medical Records — filed
+
+============================================================
+END OF DISCHARGE SUMMARY
+Document generated: 17 February 2024 at 10:45
+Riverside General Hospital | ABN 44 123 456 789
+============================================================
