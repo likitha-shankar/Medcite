@@ -1,0 +1,43 @@
+name: RAG Evaluation Quality Gate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+    # NOTE: This job requires Ollama with qwen3:latest.
+    # For GPU-less CI runners, consider splitting into:
+    #   1. A retrieval-only job (no LLM needed)
+    #   2. A full eval job on a self-hosted runner with GPU
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install and start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve &
+          # Wait for Ollama to be ready
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:11434/api/tags > /dev/null && break
+            sleep 2
+          done
+
+      - name: Pull LLM model
+        run: ollama pull qwen3:latest
+
+      - name: Run evaluation pipeline
+        run: python -m app.evaluation.evaluate
+        # Exit code 1 = thresholds not met → job fails → PR blocked
