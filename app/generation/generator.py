@@ -129,7 +129,7 @@ def generate_answer(
         ],
         temperature=0.1,  # Low temperature for factual, deterministic answers.
                           # High temperature = more creative = more hallucination risk.
-        max_tokens=512,
+        max_tokens=1024,
     )
 
     raw_answer = response.choices[0].message.content
