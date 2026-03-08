@@ -7,9 +7,15 @@ Requires: Ollama running locally with qwen3:latest
 
 import os
 import re
+import sys
 import tempfile
 import time
 from pathlib import Path
+
+# Ensure the repo root is on sys.path so `app.*` imports work on Streamlit Cloud.
+_repo_root = str(Path(__file__).resolve().parent.parent.parent)
+if _repo_root not in sys.path:
+    sys.path.insert(0, _repo_root)
 
 import streamlit as st
 
