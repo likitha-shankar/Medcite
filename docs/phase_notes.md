@@ -1,4 +1,4 @@
-# Healthcare RAG System — Phase Notes
+# Medcite — Phase Notes
 
 A production-grade Retrieval-Augmented Generation system for healthcare document Q&A with citation-enforced answers.
 

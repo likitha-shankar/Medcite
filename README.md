@@ -1,6 +1,8 @@
-# Healthcare Document RAG System
+# Medcite
 
 A production-grade **Retrieval-Augmented Generation (RAG)** system purpose-built for clinical documents. Upload any health document — clinical guideline, discharge summary, lab report — ask questions in plain English, and get cited, grounded answers. Everything runs **fully offline** using a local LLM.
+
+**Live demo:** [medcite.streamlit.app](https://medcite.streamlit.app)
 
 ---
 
@@ -408,7 +410,7 @@ The bi-encoder in retrieval encodes query and document independently — it can'
 ## Project Structure
 
 ```
-health_doc_RAG/
+Medcite/
 ├── app/
 │   ├── ingestion/
 │   │   ├── pipeline.py        # Entry point: load → chunk → save → return
@@ -459,8 +461,8 @@ health_doc_RAG/
 
 ```bash
 # Clone
-git clone https://github.com/likitha-shankar/health-doc-RAG.git
-cd health-doc-RAG
+git clone https://github.com/likitha-shankar/Medcite.git
+cd Medcite
 
 # Create virtualenv
 python3 -m venv venv

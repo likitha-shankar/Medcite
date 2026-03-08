@@ -1,5 +1,5 @@
 """
-Streamlit UI for the Healthcare RAG System.
+Streamlit UI for Medcite — Healthcare Document RAG.
 
 Run with: PYTHONPATH=. streamlit run app/ui/streamlit_app.py
 Requires: Ollama running locally with qwen3:latest
@@ -36,7 +36,7 @@ from app.embeddings.vector_store import add_chunks, get_collection, reset_collec
 from app.retrieval.hybrid_retriever import reset_bm25
 
 # ── Page Config ───────────────────────────────────────────────────────────
-st.set_page_config(page_title="Healthcare RAG", page_icon="🏥", layout="wide")
+st.set_page_config(page_title="Medcite", page_icon="🏥", layout="wide")
 
 # ── Custom CSS ────────────────────────────────────────────────────────────
 st.markdown("""
@@ -501,7 +501,7 @@ st.markdown(f'<div class="{status_bar_class}"></div>', unsafe_allow_html=True)
 # ── Header ────────────────────────────────────────────────────────────────
 header_cols = st.columns([6, 2])
 with header_cols[0]:
-    st.title("Healthcare Document Q&A")
+    st.title("Medcite")
     st.caption("Upload clinical documents. Ask questions in plain English. Get cited, grounded answers.")
 with header_cols[1]:
     st.markdown('<div style="padding-top:12px;"></div>', unsafe_allow_html=True)
@@ -705,7 +705,7 @@ with tab_about:
     st.markdown(
         '<div style="background:linear-gradient(135deg,#E3F2FD 0%,#f5f5ff 100%);'
         'border-radius:16px;padding:36px 32px;margin-bottom:24px;">'
-        '<h2 style="margin:0 0 8px 0;color:#0D47A1;">Healthcare Document RAG</h2>'
+        '<h2 style="margin:0 0 8px 0;color:#0D47A1;">Medcite</h2>'
         '<p style="font-size:1.1em;color:#333;margin:0 0 16px 0;line-height:1.6;">'
         'A production-grade <strong>Retrieval-Augmented Generation</strong> system '
         'purpose-built for clinical documents. Upload any health document, ask questions '
@@ -946,7 +946,7 @@ with tab_about:
     st.markdown("---")
     st.markdown(
         '<div style="text-align:center;color:#999;font-size:0.82em;padding:8px 0;">'
-        'Built with Streamlit, ChromaDB, Ollama, and sentence-transformers. '
+        'Medcite — built with Streamlit, ChromaDB, Ollama, and sentence-transformers. '
         'Fully offline — no data leaves your machine.'
         '</div>',
         unsafe_allow_html=True,
